@@ -1,4 +1,4 @@
 {
-    "lock": false,
-    "importMap": ".vscode/import_map.json"
+  "lock": false,
+  "importMap": ".vscode/import_map.json"
 }
